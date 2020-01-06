@@ -1,2 +1,2 @@
 # java
-Advanced Java Practical Codes
+Advanced Java
